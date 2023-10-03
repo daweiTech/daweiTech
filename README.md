@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **daweiTech/daweiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi there 👋 This is dawei!
+
+
+- 🔭 web人 ...
+- 🌱 Learning Go!!!
+- 👯 网络安全专业的渣渣
+- 🤔 希望得到大师傅的指点迷津！
+- 📫 blog: <a href="https://blog.csdn.net/weixin_51213906"> https://blog.csdn.net/weixin_51213906 </a>
+
+
+<img align="center" alt="Coding" width="600" length="800" src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2xldGUxMTQvQ0ROQDMuMC9Cb0JvUGljLzIzLmpwZw?x-oss-process=image/format,png.30">
+
+
